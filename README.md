@@ -6,6 +6,7 @@ can get them back in a minute.
 | Theme | Based on | Notes |
 |---|---|---|
 | `night-islands` | Osaka Jade | Dark floating-pill bar (`#12151d` pills, off-white text), Osaka Jade colors and wallpapers |
+| `progressing` | Night Islands | Work in progress: same pill bar, plain black wallpaper |
 
 ## Restore on a new machine
 
