@@ -6,7 +6,7 @@ can get them back in a minute.
 | Theme | Based on | Notes |
 |---|---|---|
 | `night-islands` | Osaka Jade | Dark floating-pill bar (`#12151d` pills, off-white text), Osaka Jade colors and wallpapers |
-| `progressing` | Night Islands | Work in progress: same pill bar; black, Zenitsu ×2, Levi, purple/3D bloom/metallic abstract wallpapers |
+| `progressing` | Night Islands | Work in progress: same pill bar; Zenitsu ×2, Levi, purple/3D bloom/metallic abstract wallpapers |
 
 ## Restore on a new machine
 
