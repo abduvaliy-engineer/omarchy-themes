@@ -1,0 +1,9 @@
+# Black Aesthetics: floating-pill bar. Everything else in the shell derives
+# from colors.toml; this only overrides the [bar] section.
+background       = "#111114"
+background-alpha = 0.92
+text             = "#e6e6ea"
+active           = "#e5484d"
+scale-with-font  = true
+size-horizontal  = 28
+size-vertical    = 28

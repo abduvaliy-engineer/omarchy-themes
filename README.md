@@ -6,7 +6,7 @@ can get them back in a minute.
 | Theme | Based on | Notes |
 |---|---|---|
 | `night-islands` | Osaka Jade | Dark floating-pill bar (`#12151d` pills, off-white text), Osaka Jade colors and wallpapers |
-| `black-aesthetics` | Night Islands | Same pill bar; Zenitsu ×2, Levi, purple/3D bloom/metallic abstract wallpapers |
+| `black-aesthetics` | Night Islands | Near-black + gray with a gold accent (`#f5b83d`), pill bar, gold lock logo; Zenitsu ×2, Levi, purple/3D bloom/metallic abstract wallpapers |
 
 ## Restore on a new machine
 
