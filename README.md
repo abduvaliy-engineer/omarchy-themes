@@ -6,7 +6,7 @@ can get them back in a minute.
 | Theme | Based on | Notes |
 |---|---|---|
 | `night-islands` | Osaka Jade | Dark floating-pill bar (`#12151d` pills, off-white text), Osaka Jade colors and wallpapers |
-| `progressing` | Night Islands | Work in progress: same pill bar; Zenitsu ×2, Levi, purple/3D bloom/metallic abstract wallpapers |
+| `black-aesthetics` | Night Islands | Same pill bar; Zenitsu ×2, Levi, purple/3D bloom/metallic abstract wallpapers |
 
 ## Restore on a new machine
 
@@ -14,7 +14,7 @@ can get them back in a minute.
 # Omarchy reads custom themes from this folder
 rm -rf ~/.config/omarchy/themes   # only if it is empty / has nothing to keep
 git clone https://github.com/abduvaliy-engineer/omarchy-themes.git ~/.config/omarchy/themes
-omarchy theme set night-islands
+omarchy theme set black-aesthetics
 ```
 
 Clone it (rather than `omarchy theme install`): theme install expects one
