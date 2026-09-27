@@ -6,14 +6,14 @@ can get them back in a minute.
 | Theme | Based on | Notes |
 |---|---|---|
 | `night-islands` | Osaka Jade | Dark floating-pill bar (`#12151d` pills, off-white text), Osaka Jade colors and wallpapers |
-| `progressing` | Night Islands | Work in progress: same pill bar, plain black wallpaper |
+| `progressing` | Night Islands | Work in progress: same pill bar; black, Zenitsu ×2, Levi, purple/3D bloom/metallic abstract wallpapers |
 
 ## Restore on a new machine
 
 ```bash
 # Omarchy reads custom themes from this folder
 rm -rf ~/.config/omarchy/themes   # only if it is empty / has nothing to keep
-git clone <this repo url> ~/.config/omarchy/themes
+git clone https://github.com/abduvaliy-engineer/omarchy-themes.git ~/.config/omarchy/themes
 omarchy theme set night-islands
 ```
 
